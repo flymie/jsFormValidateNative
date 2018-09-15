@@ -8,3 +8,5 @@ valiFormSubmit(inputs,callback);//全部成功后，进行回调
 
 ##其他
 也完全可以修改后，用export导出，import导入使用。
+
+[地址:https://flymie.github.io/jsFormValidateNative/](https://flymie.github.io/jsFormValidateNative/)
